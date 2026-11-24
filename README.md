@@ -7,7 +7,7 @@ I'm a Software Engineering graduate from **Wollo University, Ethiopia**, passion
 
 ## 🚀 About Me
 
-- 🎓 BSc in Software Engineering — Wollo University
+- 🎓 BSc in Software Engineering — Wollo University (CGPA-3.58)
 - ☁️ Microsoft Certified: Azure Developer Associate (AZ-204)
 - 💻 Interested in Backend Development and Cloud Computing
 - 🔧 Experienced in developing software management systems
@@ -17,14 +17,14 @@ I'm a Software Engineering graduate from **Wollo University, Ethiopia**, passion
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- JavaScript
+- JavaScript (React.js)
 - Node.js
 - Python
-- SQL
+- SQL/ PSQL
 
 **Tools & Technologies**
 - Microsoft Azure
-- Git & GitHub
+- Git, GitHub & Gitlab
 - Arduino
 - Embedded Systems
 
@@ -51,19 +51,13 @@ An Arduino-based temperature monitoring simulation developed while exploring emb
 
 ## 🏆 Education & Certification
 
-- **BSc Software Engineering** — Wollo University
+- **BSc Software Engineering**(CGPA-3.58) — Wollo University
 - **Microsoft Certified: Azure Developer Associate (AZ-204)**
 - **Software Development Training** — AppFactory Academy
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flowertothecodeoflife&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flowertothecodeoflife&layout=compact&theme=github_dark&hide_border=true)
-
 ## 🌐 Connect With Me
 
-- GitHub: [flowertothecodeoflife](https://github.com/flowertothecodeoflife)
+- GitHub: [@abdurohmaneth](https://github.com/abdurohmaneth)
 - LinkedIn: [Abdurohman Mulugeta](https://linkedin.com/in/abdurohman-mulugeta)
 
 ---
